@@ -1,5 +1,4 @@
 # odin-landing-page
-[Live preview url](https://preedroos.github.io/odin-landing-page/)
 
 #### In this project I've wrote a landing page.
 
